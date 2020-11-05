@@ -1,0 +1,8 @@
+Name: NixMoney Gateway;
+Parent Addon: user-balance;
+Version: 1.1.2;
+Support Core: 16.17.0;
+ItemID: 14398;
+Description: Подключение сайта к платежному агрегатору NixMoney https://www.nixmoney.com;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
